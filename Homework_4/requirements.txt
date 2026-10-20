@@ -1,0 +1,10 @@
+numpy
+pandas
+ipykernel
+nbformat
+nbclient
+notebook
+matplotlib
+scikit-learn>=1.8
+threadpoolctl
+statsmodels
